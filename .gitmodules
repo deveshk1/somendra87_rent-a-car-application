@@ -1,0 +1,6 @@
+[submodule "profile-service"]
+	path = profile-service
+	url = ../profile-service/
+[submodule "rent-car-app"]
+	path = rent-car-app
+	url = ../rent-car-app/
